@@ -11,6 +11,7 @@ The game challenges players to match pairs of cards (countries and capitals) whi
 * Timer with Pause/Resume functionality
 * Restart and Start buttons to reset the game
 * Responsive design for mobile and desktop
+* Accessible: focus rings, semantic roles, keyboard-friendly
 
 🛠️ Tech Stack
 
@@ -25,7 +26,7 @@ The game challenges players to match pairs of cards (countries and capitals) whi
 * If the cards match, they stay revealed.
 * If not, they flip back after a short delay.
 * Try to match all pairs as fast as possible!
-* Use Pause to stop the timer and Restart to reset.
+* Beat your best time and moves!
 
 🖥️ Installation & Setup
 
