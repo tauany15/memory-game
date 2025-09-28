@@ -3,11 +3,6 @@ html, body {
   margin: 0;
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-}
-
 .backface-hidden {
   backface-visibility: hidden;
 }
@@ -22,3 +17,10 @@ body {
 .shake {
   animation: shake 0.3s;
 }
+
+.hyphenate {
+  hyphens: auto;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+

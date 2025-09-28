@@ -8,7 +8,6 @@ const pairs = [
     { id: 8, country: "Switzerland", capital: "Bern" },
     { id: 9, country: "Australia", capital: "Canberra" },
     { id: 10, country: "USA", capital: "Washington" }
-    // { id: 11, country: "Greece", capital: "Athens" }
 ];
 
 export default pairs;
